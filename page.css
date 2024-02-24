@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+a {
+    text-decoration: none;
+}
+body {
+    font-family: "Heebo", sans-serif;
+}
+#header {
+    padding: 30px 0;
+}
+.header span {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    color: #FF6464;    
+}
+.header a {
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 29px;
+    color:black ;
+}
+.header {
+    display: flex;
+    justify-content: end;
+}
+
+#hero {
+    padding: 30px 0;
+}
+.hero h1 {
+font-size: 44px;
+font-weight: 700;
+line-height: 60px;
+color: black;
+margin-bottom: 20px;
+}
+.hero-text h1 {
+font-size: 30px;
+font-weight: 500;
+line-height: 44px;
+color: #21243D;
+}
+.hero-text h2 {
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+color: #21243D;
+}
+.hero-text span {
+font-size: 20px;
+font-weight: 400;
+line-height: 29px;
+color:  #8695A4;
+}
+.hero-text p {
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+color: #21243D;
+}
+.hero-text {
+     margin-bottom: 20px;
+}
+
+#footer {
+    padding: 50px 0 ;
+}
+.footer a {
+    margin-right: 20px;
+font-size: 20px;
+    width: 50px;
+height: 50px;
+color: black;
+margin-bottom: 20px;
+}
+.footer-text {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #21243D;
+}
